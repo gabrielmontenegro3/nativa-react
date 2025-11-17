@@ -42,8 +42,8 @@ const Hero = () => {
             {/* Coluna do Texto */}
             <div className="text-center lg:text-left">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
-                Bem-vindo ao{' '}
-                <span className="text-indigo-400">Nativa React</span>
+                Bem-vindo a{' '}
+                <span className="text-indigo-400">Nativa English School</span>
               </h1>
               <p className="text-lg md:text-xl text-gray-300 mb-8 leading-relaxed">
                 Um site moderno e responsivo construído com React, Vite e Tailwind CSS.
