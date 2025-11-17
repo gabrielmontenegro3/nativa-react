@@ -64,3 +64,6 @@ nativa-react/
 
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
+---
+Última atualização: $(Get-Date -Format "dd/MM/yyyy")
+
