@@ -23,10 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
-# Large media files
+# Large media files (videos only - too large for GitHub)
 *.mp4
 *.mov
 *.avi
 *.mkv
-LOGO NATIVA TRANSPARENTE.png
+
+# Note: LOGO NATIVA TRANSPARENTE.png should be in public/ folder and will be tracked
 
